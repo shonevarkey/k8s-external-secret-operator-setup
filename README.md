@@ -7,6 +7,7 @@ This repository demonstrates how to configure the External Secrets Operator (ESO
 - 🎛️ Helm installed on your local machine
 - 🔑 Access to Google Secret Manager
 - 🌐 Workload Identity Federation or Service Account Key for authentication
+- 🛡️Service Account should have `roles/secretmanager.secretAccessor` assigned.
 
 ## 🚀 Setup Instructions
 
